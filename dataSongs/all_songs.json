@@ -1,0 +1,28 @@
+{
+    "songs": [
+        {
+            "id": "1",
+            "title": "Take it easy",
+            "artist": "The Eagles",
+            "chords": "(G)Well Im a-(G)runnin down the road tryn to loosen my load ..."
+        },
+        {
+            "id": "2",
+            "title": "The Weight",
+            "artist": "The Band",
+            "chords": "(G)I pulled into Nazareth was feelin about half past dead\nI just need some place where I can lay my head ..."
+        },
+        {
+            "id": "3",
+            "title": "Bad Moon Rising",
+            "artist": "Creedence Clearwater Revival",
+            "chords": "(G)I see the bad moon a-rising\nI see trouble on the way\nI see earthquakes and lightnin ..."
+        },
+        {
+            "id": "4",
+            "title": "Got me fever",
+            "artist": "Little Willie John",
+            "chords": "(G)You will nevel know how much I love you\n you never know how much I care ..."
+        }
+    ]
+}
